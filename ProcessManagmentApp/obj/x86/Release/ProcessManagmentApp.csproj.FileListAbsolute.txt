@@ -1,0 +1,11 @@
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\x86\Release\ProcessManagmentApp.exe.config
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\x86\Release\ProcessManagmentApp.exe
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\bin\x86\Release\ProcessManagmentApp.pdb
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.csproj.AssemblyReference.cache
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.Form1.resources
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.Properties.Resources.resources
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.csproj.GenerateResource.cache
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.csproj.CoreCompileInputs.cache
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.exe
+C:\Users\Yurko\source\repos\ProcessManagmentApp\ProcessManagmentApp\obj\x86\Release\ProcessManagmentApp.pdb
